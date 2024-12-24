@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo h1 span{
+    font-size: 45px;
+    background: linear-gradient(to right, rgb(3, 3, 75), rgb(54, 167, 54) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+nav {
+    display:flex;
+    box-sizing: border-box;
+    box-shadow: 0 0 8px #000;
+    height: 10vh;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    z-index: 100;
+}
+nav ul{
+    float: right;
+    margin-top: 30px;
+    margin-left: 20%;
+    font-size: 18px;
+
+}
+ul li{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
